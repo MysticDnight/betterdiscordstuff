@@ -13,4 +13,10 @@ Ysera Theme:
 
 http://i.imgur.com/wrfiYdk.png
 
+Celestial Flowers Theme:
+
+http://i.imgur.com/JO7lvLT.png
+
 (Please note that I am using ChatBubbles by maple and a server column grid by Jiiks)
+
+ALL CREDIT GOES TO ZERTHOX FOR THE CLEARVISION CODE
